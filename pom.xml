@@ -6,7 +6,7 @@
   <groupId>com.example</groupId>
   <artifactId>Nexus-Demo</artifactId>
   <version>1.0.0</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <properties>
     <!-- Define project properties -->
